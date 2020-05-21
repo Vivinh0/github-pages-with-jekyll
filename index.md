@@ -1,5 +1,3 @@
-# Welcome to my blog
+# Welcome to my awsome blog
 
-I'm glad you are here. I plan to talk about ...
-
-Test content of my new site.
+I'm glad you are here. I plan to talk about dev staff.
